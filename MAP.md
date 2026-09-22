@@ -1,4 +1,4 @@
-# Source map (opened 2026-09-20)
+# Source map (opened 2026-09-20, svc added 2026-09-22)
 
 ## Drive — Ella and Friends (voice)
 
@@ -28,5 +28,14 @@ Account ilghar. Chatterbox-TTS-Persian: do not redownload 2.14 GB to prove exist
 
 ## GitHub
 
-This repo: Ilghar/ella-voice. Also Signature-animation, email-assets.
+- Public spec: Ilghar/ella-voice
+- Private banks + singing jobs: Ilghar/ella-voice-banks (`svc/` added 2026-09-22)
+- Also Signature-animation, email-assets, ilghar-studio
+
 Local Mac path: /Users/ilghar_studio/Desktop/VOICE_TRAINING/ELA_Persian_Slut_and_Friends/ELA_VOICE_v2_6-8-26
+
+## Mirror rule
+
+Grok updates GitHub when Ela voice context changes.
+Drive keeps weights, ref wavs, padded banks, studio zip.
+Chat sandbox is ephemeral. GitHub is the durable spec.
